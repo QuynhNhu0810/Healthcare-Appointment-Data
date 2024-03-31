@@ -1,4 +1,4 @@
-**Medical Appointment Dataset**
+**Medical Appointment No Shows Dataset**
 
 **DATA SOURCE**: https://www.kaggle.com/datasets/joniarroba/noshowappointments
 
